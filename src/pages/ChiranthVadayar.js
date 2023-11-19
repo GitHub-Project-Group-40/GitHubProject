@@ -6,12 +6,12 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider man. </h1>
+            <h1 className='title'>Hey, My name is Chiranth Vadayar! </h1>
           </div>
           <img
             className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
+            src='/images/ChiranthVadayar.jpg'
+            alt='Chiranth Vadayar'
           />
 
           <p className='description'>

@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>GitHub Project Group 40</h1>
 
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
@@ -27,6 +27,11 @@ export default function Home() {
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
+          </a>
+
+          <a href='/ChiranthVadayar ' className='card'>
+            <h3>About Chiranth Vadayar &rarr;</h3>
+            <p>Click here to learn more!</p>
           </a>
 
           <a

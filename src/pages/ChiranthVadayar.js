@@ -63,6 +63,8 @@ export default function examplePage() {
           .underline {
             /* border-bottom: solid black; */
             margin-bottom: 1.5rem;
+            text-align: center
+            font-size: 20rem;
           }
 
           .description {

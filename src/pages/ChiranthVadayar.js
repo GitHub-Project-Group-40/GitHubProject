@@ -11,21 +11,18 @@ export default function examplePage() {
           <img
             className='pic'
             src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='Chiranth Vadayar'
+            alt='chiranth vadayar'
           />
 
           <p className='description'>
-            Hey I am a current first year student at the University of Colorado Boulder
-            and I am studying Computer Science through the School of Engineering and
-            Computer Science. I am interested in Dsta Science and Quantum Computing.
-            Outside of school I am working on a project called re{cognition}; which
-            utilizes facial recognition to automatically take attendance. I am currently
-            working on building a website to display all my work and research before
-            continuing on my software development to turn the project into a deployable
-            application. Moving away from computer science, I also love photography and
-            the outdoors and have been learning Indian classical music and Tabla both for
-            over 10 years. I love cooking and also writing stories and look forward to a 
-            day that I can focus on pursuing only my passions like cooking and storywriting.
+            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
+            Holland. I am an actor but mostly I fight villains and juggle high school.
+            I am just your average student – well, maybe not so average. 
+            You see, I've got some incredible powers, like superhuman strength, agility, 
+            and the ability to shoot webs from my wrists. With great power comes great 
+            responsibility, and I'm here to protect New York City from all kinds of baddies,
+            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
+            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
           </p>
 
           <a className='button' href='/'>

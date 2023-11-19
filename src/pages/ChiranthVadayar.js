@@ -58,6 +58,7 @@ export default function examplePage() {
             margin: 0;
             line-height: 1.15;
             font-size: 3.2rem;
+            text-align: center;
           }
 
           .underline {

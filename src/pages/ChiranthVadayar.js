@@ -57,7 +57,7 @@ export default function examplePage() {
           .title {
             margin: 0;
             line-height: 1.15;
-            font-size: 2rem;
+            font-size: 3.2rem;
           }
 
           .underline {

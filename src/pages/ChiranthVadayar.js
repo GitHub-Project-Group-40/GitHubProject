@@ -57,14 +57,12 @@ export default function examplePage() {
           .title {
             margin: 0;
             line-height: 1.15;
-            font-size: 4rem;
+            font-size: 2rem;
           }
 
           .underline {
             /* border-bottom: solid black; */
             margin-bottom: 1.5rem;
-            text-align: center
-            font-size: 20rem;
           }
 
           .description {

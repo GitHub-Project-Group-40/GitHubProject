@@ -37,6 +37,10 @@ export default function Home() {
             <h3>About Alexander Drozdzewicz &rarr;</h3>
             <p>Click here to learn more!</p>
           </a>
+          <a href='/LachlanMurphy ' className='card'>
+            <h3>About Lachlan Murphy &rarr;</h3>
+            <p>Click here to learn more!</p>
+          </a>
           <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
